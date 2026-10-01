@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://k8719965-oss.github.io/prokat-serpukhov/sitemap.xml
