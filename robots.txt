@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://prokat-serpukhov.netlify.app/sitemap.xml
